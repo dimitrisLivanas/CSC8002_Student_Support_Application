@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=StudentName
+comment0.text=\r\n\ A\ class\ that\ creates\ the\ Students\ name.\ The\ name\ contians\ a\ first\ name\r\n\ and\ a\ last\ name.\ The\ class\ contains\ methods\ that\ return\ both\ first\ and\ last\ name\r\n\ seperately\ and\ also\ a\ method\ that\ return\ the\ full\ name\ of\ the\ student.\r\n\r\n\ @Livanas\ Dimitris\r\n\ @version\ 1.0\r\n
+comment1.params=firstName\ lastName
+comment1.target=StudentName(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment3.params=
+comment3.target=java.lang.String\ getLastName()
+comment4.params=
+comment4.target=java.lang.String\ getStudentName()
+numComments=5

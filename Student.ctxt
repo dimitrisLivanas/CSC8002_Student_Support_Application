@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Abstract\ class\ Student\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ (your\ name\ here)\r\n\ @version\ (version\ number\ or\ date\ here)\r\n
+comment1.params=maxCredits\ currentCredits\ enoughCredits
+comment1.target=Student(int,\ int,\ boolean)
+comment2.params=module
+comment2.target=void\ addModule(Module)
+comment3.params=
+comment3.target=java.util.ArrayList\ getModules()
+comment4.params=
+comment4.target=java.lang.String\ getStudentId()
+comment5.params=maxCredits\ credits
+comment5.target=boolean\ enoughCredits(int,\ int)
+comment6.params=maxCredits
+comment6.target=java.lang.String\ getStudentType(int)
+numComments=7

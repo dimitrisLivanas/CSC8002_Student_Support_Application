@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SmartCard
+comment0.text=\r\n\ A\ class\ that\ holds\ information\ about\ the\ Student's\ SmartCard\r\n\ It\ contains\ methods\ that\ can\ present\ each\ information\r\n\ The\ smart\ card\ consists\ of\ the\ students\ name,\ date\ of\ birth\r\n\ and\ Student\ Id\ and\ also\ the\ Date\ that\ the\ card\ has\ been\ issued.\r\n\r\n\ @author\ Livanas\ Dimitris\r\n\ @version\ 1.0\r\n
+comment1.params=studentName\ dateOfBirth\ studentId\ issueDate
+comment1.target=SmartCard(StudentName,\ java.util.Calendar,\ StudentId,\ java.util.Calendar)
+comment2.params=
+comment2.target=StudentName\ getName()
+comment3.params=
+comment3.target=java.util.Calendar\ getDateOfBirth()
+comment4.params=
+comment4.target=StudentId\ getStudentId()
+comment5.params=
+comment5.target=java.util.Calendar\ getIssueDate()
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=StudentId
+comment0.text=\r\n\ The\ class\ that\ creats\ the\ Student\ Id\ for\ the\ Students.\r\n\ The\ Id\ contains\ a\ letter\ followed\ by\ numbers\ and\ must\ be\r\n\ unique\ for\ each\ student.\ I\ used\ the\ random\ class\ to\ generate\ \r\n\ a\ random\ letter\ and\ four\ random\ numbers.\ The\ stringRep\ is\r\n\ the\ random\ number\ followed\ by\ the\ four\ random\ numbers.\r\n\ I\ am\ using\ a\ factory\ (getInstance)\ to\ make\ sure\ of\ the\ uniqueness\r\n\ of\ the\ Students\ Id.\r\n\r\n\ @Livanas\ Dimitris\r\n\ @version\ 1.0\r\n
+comment1.params=letter\ number\ stringRep
+comment1.target=StudentId(char,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=StudentId\ getInstance()
+comment3.params=
+comment3.target=char\ getLetter()
+comment4.params=
+comment4.target=int\ getNum()
+comment5.params=
+comment5.target=java.lang.String\ getStringRep()
+numComments=6
